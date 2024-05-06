@@ -7,6 +7,8 @@ pod install
 cd ..
 react-native run-ios or react-native run-android
 
+Replace your firebase config file
+
 Dependencies:
 
 @react-native-community/masked-view": "^0.1.10"
